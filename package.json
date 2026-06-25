@@ -1,0 +1,21 @@
+{
+  "name": "beeloft-baby-landing-page",
+  "version": "1.0.0",
+  "description": "Pastel landing page for Beeloft Baby, a premium kidswear brand from Jakarta.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "node scripts/validate.js",
+    "build": "node scripts/build.js",
+    "preview": "python3 -m http.server 4173"
+  },
+  "keywords": [
+    "beeloft-baby",
+    "kidswear",
+    "landing-page",
+    "pastel",
+    "static-site"
+  ],
+  "author": "Beeloft Baby",
+  "license": "UNLICENSED"
+}
